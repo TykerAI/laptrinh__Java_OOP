@@ -1,0 +1,20 @@
+HD001, 01/07/2026, Tran Van Tuan, true, 0901234567, 123 Le Loi, Giặt Áo/Quần, 0, 15000, Hoàn Thành, 5.5
+HD002, 10/06/2026, Nguyen Thi Lan, false, 0912345678, 45 Nguyen Van Linh, Giặt Áo/Quần, 50000, 40000, Đang Xử Lý, 2
+HD003, 20/06/2026, Tran Van Tuan, true, 0901234567, 123 Le Loi, Giặt Ra Giường/Rèm Cửa, 0, 20000, Hoàn Thành, 8.0
+HD004, 12/05/2026, Pham Mai Phuong, false, 0934567890, 12 Phan Chu Trinh, Giặt Chăn/Mền, 20000, 25000, Đang Xử Lý, 6.5
+HD005, 18/05/2026, Hoang Tuan Anh, true, 0945678901, 56 Ong Ich Khiem, Giặt Bộ Veston, 100000, 80000, Hoàn Thành, 1
+HD006, 11/06/2026, Nguyen Thi Lan, false, 0912345678, 45 Nguyen Van Linh, Giặt Bộ Veston, 0, 60000, Đang Xử Lý, 3
+HD007, 25/06/2026, Chau Anh Dung, true, 0967890123, 34 Tran Phu, Giặt Áo/Quần, 10000, 15000, Đang Xử Lý, 4.0
+HD008, 14/04/2026, Do Quynh Nhu, false, 0978901234, 67 Le Duan, Giặt Giày, 0, 40000, Hoàn Thành, 1
+HD009, 22/06/2026, Bui Xuan Bach, true, 0989012345, 90 Bach Dang, Giặt Giày, 50000, 20000, Đang Xử Lý, 12.0
+HD010, 16/05/2026, Duong Kieu Trinh, false, 0990123456, 23 3 Thang 2, Giặt Chăn/Mền, 0, 25000, Hoàn Thành, 5.0
+HD011, 28/04/2026, Chau Anh Dung, true, 0967890123, 34 Tran Phu, Giặt Bộ Veston, 0, 80000, Đang Xử Lý, 2
+HD012, 13/07/2026, Mai Phuong Thao, false, 0912233445, 67 Quang Trung, Giặt Thú Nhồi Bông, 30000, 60000, Hoàn Thành, 2
+HD013, 26/06/2026, Truong Gia Huy, true, 0923344556, 89 Nguyen Chi Thanh, Giặt Áo/Quần, 0, 15000, Đang Xử Lý, 7.5
+HD014, 19/06/2026, Dinh Thu Ha, false, 0934455667, 12 Ly Thai To, Giặt Giày, 20000, 40000, Hoàn Thành, 3
+HD015, 27/06/2026, Bui Xuan Bach, true, 0989012345, 90 Bach Dang, Giặt Ra Giường/Rèm Cửa, 0, 20000, Đang Xử Lý, 10.0
+HD016, 24/05/2026, Doan Hai Yen, false, 0956677889, 56 Nguyen Du, Giặt Chăn/Mền, 15000, 25000, Hoàn Thành, 8.5
+HD017, 29/04/2026, Phung The Binh, true, 0967788990, 78 Le Hong Phong, Giặt Bộ Veston, 50000, 80000, Đang Xử Lý, 3
+HD018, 23/04/2026, Ho Thu Trang, false, 0978899001, 90 Hoang Hoa Tham, Giặt Thú Nhồi Bông, 0, 60000, Hoàn Thành, 5
+HD019, 17/05/2026, Luu Chan Phong, true, 0989900112, 23 Nguyen Thai Hoc, Giặt Thú Nhồi Bông, 25000, 15000, Đang Xử Lý, 6.0
+HD020, 21/03/2026, Lam Tuyet Mai, false, 0990011223, 45 Yen Bai, Giặt Giày, 0, 40000, Hoàn Thành, 4
